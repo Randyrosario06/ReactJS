@@ -1,0 +1,17 @@
+#archivo{
+    font-size: 15px;
+}
+input{
+   background-color: aliceblue;
+   color: black;
+}
+
+Form{
+    color: aliceblue;
+    font-size: 35px;
+}
+
+img{
+    background-color: aliceblue;
+    height: 10%;
+}

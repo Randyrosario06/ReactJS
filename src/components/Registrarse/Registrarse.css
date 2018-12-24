@@ -1,0 +1,33 @@
+form{
+    font-size: 20px;
+    text-align: center;
+    margin: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color:#3366cc;
+    border-style:groove;  
+    border-radius: 10px;  
+}
+input{
+text-align: center;
+margin: 2%;
+width: 50%;
+font-size: 25px;
+border-style:inset; 
+border-radius: 8px;
+}
+h2{
+    color: #e2f188;
+}
+input[type=submit]{
+    width: 30%;
+    background-color: #e2f188;
+}
+a{
+    text-decoration: none;
+    color: #e2f188;
+  font-size: 25px;
+}
+p{
+    color: aliceblue;
+}
